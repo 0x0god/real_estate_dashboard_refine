@@ -1,4 +1,4 @@
-# A Full Stack MERN Dashboard App With CRUD, Auth, and Charts Using Refine
+# A Full Stack MERN Dashboard App With CRUD, Auth, and Charts Using Refine.Dev
 
 ![Refine Dashboard](https://i.ibb.co/BcFvc1V/image-2023-02-25-02-49-26.png)
 
